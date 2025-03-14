@@ -4,19 +4,19 @@
     python 3.13
 
 ## Required libraries
-+ aiogram
-    ```
+aiogram
+```
     pip install dotenv
-    ```
-+ dotenv
-    ```
+```
+dotenv
+```
     pip install python-dotenv
-    ```
-+ pymongo
+```
+pymongo
 ```
     pip install pymongo
 ``` 
-+ liqpay 
+liqpay 
 ```
     pip install git+https://github.com/liqpay/sdk-python#egg=liqpay-python
 ```
