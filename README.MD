@@ -6,7 +6,7 @@
 ## Required libraries
 aiogram
 ```
-    pip install dotenv
+    pip install aiogram
 ```
 dotenv
 ```
